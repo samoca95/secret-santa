@@ -1,6 +1,13 @@
 # Secret Santa
 Quick secret santa python code to send emails to all participants. For personal use.
 
+## How to use
+1. Download the `main.py` script
+2. Install the required packages if needed
+3. Adjust the participants, emails and other parameters if desired
+4. Run the script with:
+   > python3 main.py
+
 ## Setting your login information
 In order to avoid to put your email and password in the code, you need to set them as environment variables:
 > export CT_EMAIL="user@example.com"
